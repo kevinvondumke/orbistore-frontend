@@ -1,2 +1,25 @@
-# orbistore-frontend
-Frontend for Orbistore - a modern e-commerce platform built with React, React Router, Redux. Stripe Elements and Tailwind CSS.
+# ORBISTORE
+
+Orbistore is a full-stack e-commerce application built with the MERN stack and Stripe.
+It includes a customer storefront, secure checkout, and an admin dashboard for managing products and orders.
+
+## Teck Stack
+
+Frontend
+- React.js
+- React Router
+- Redux
+- Stripe
+- Tailwind CSS
+- Axios
+
+Features
+- Product browsing, search, filters.
+- Product detail pages.
+- Cart + Checkout.
+- Stripe payment flow.
+- User accounts + order history.
+- Admin product management.
+- Admin order management.
+- Secure authentication.
+- Fully responsive UI.
